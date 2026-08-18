@@ -1,95 +1,62 @@
-![image](https://user-images.githubusercontent.com/83174104/132268179-7e53d79b-b8cf-4044-86b7-baa94efb4b42.png)
+<div align="center">
 
-# Bump
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/Bump-Igdrassil/main/banner.svg" alt="Bump-Igdrassil Banner" width="920" />
 
-- [简体中文](/README-zh-CN.md)
+# ⚡ Bump-Igdrassil
 
-Author: bxx2004
-
-Previous maintainers: Lobbytech-MC, zimzaza4
-
-Current maintainer: SlimefunGuguProject
-
-Bump is a Slimefun addon that adds magic weapons, food and an appraisal system.
-
-## Download
-
-### 2.0+
-
-Bump 2.0 is refactored by @ybw0014, and maintained by @ybw0014 and @haiman233. It depends on Slimefun RC-30, and adds localization service.  
-
-Minecraft version: 1.16 and above  
-Slimefun version: RC-30 and above
-
-Click the image below to download：
-
-[![Buils Status](https://builds.guizhanss.com/f/SlimefunGuguProject/Bump/main/badge.svg)](https://builds.guizhanss.com/SlimefunGuguProject/Bump/main)
-
-## About Bump
-
-### Authorization
-
-Bump is a plugin made in 2020. We are authorized to rewrite bump.
-
-![P$XX}%43@U5N_}DJSB0 Z)M](https://user-images.githubusercontent.com/83174104/161408943-388d2640-03c5-4f6d-a11c-fcd6b532cfe5.png)
-
-### Demo video
-
-https://www.bilibili.com/video/BV1z54y117Sv
-
-### Original thread in mcbbs
-
-https://www.mcbbs.net/thread-1125935-1-1.html
-
-### Supported languages
-
-We support these languages：
-
-- `en-US` English (United States)
-  - Thanks @UniverseNetwork for English translation
-- `en-UK` English (United Kingdom)
-- `zh-CN` Simplified Chinese
-- `zh-TW` Traditional Chinese
-- `ru-RU` Russian
-- `pt-BR` Portuguese, Brazilian
-  - Thanks @N1kyZ for Portuguese, Brazilian translation
-- `ja-JP` Japanese
-  - Thanks @SchnTgaiSpock for Japanese translation
-- `nl-NL` Dutch 37%
-- `de-DE` German 35%
-- `es-ES` Spanish 17%
-- `tr-TR` Turkish 3%
-
-The default language is English (United States) `en-US`.  
-You can change `options.lang` in `config.yml` to your favourite language.
-
-If you want to add your language to this addon, please submit your translation at [Crowdin](https://crowdin.com/project/slimefun-bump).
-
-## Bugs / Suggestions
-
-Please submit bug reports in [issues](https://github.com/SlimefunGuguProject/Bump/issues/), we only accept reports in Chinese and English.
-
-For suggestions and questions, please talk about them in `#bump` of slimefun addon community, feel free to ping `ybw0014#2209` or `haiman#0803` (remember the server rule doesnt allow pinging, but you can ping us after a period of time).
+**SLIMEFUN4 ADDON · DRAKES EDITION**
 
 <p>
-  <a href="https://discord.gg/slimefun">
-    <img src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner3" alt="Discord Invite"/>
-  </a>
-  <a href="https://discord.gg/SqD3gg5SAU">
-    <img src="https://discordapp.com/api/guilds/809178621424041997/widget.png?style=banner3" alt="Discord Invite"/>
-  </a>
+  <a href="https://github.com/DrakesCraft-Labs/Bump-Igdrassil"><img src="https://img.shields.io/badge/GitHub-Bump-Igdrassil-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Slimefun4-Drake_Edition-22C55E?style=for-the-badge&logo=curseforge&logoColor=white" alt="Slimefun4"/>
+  <img src="https://img.shields.io/badge/Paper-1.21.11-38BDF8?style=for-the-badge&logo=minecraft&logoColor=white" alt="Paper 1.21.11"/>
+  <img src="https://img.shields.io/badge/Java-21-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
 </p>
 
-## License
+</div>
 
-Copyright (C) 2022 Slimefun Gugu Project
+---
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+## 📖 Descripción Detallada
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+**Bump-Igdrassil** es una expansión modular del ecosistema **DrakesCraft Labs** para servidores Minecraft **Paper / Purpur 1.21.11**.
+
+Addon de Slimefun mantenido y optimizado por DrakesCraft Labs para Paper 1.21.11.
+
+Todo el contenido, recetas y maquinaria se desbloquean e investigan directamente desde la **Guía de Slimefun (`/sf guide`)** sin necesidad de comandos especiales.
+
+---
+
+## ⚙️ Características y Sistemas Principales
+
+* 🚀 **Rendimiento Optimizado**: Totalmente preparado para Java 21 sobre Paper 1.21.11, sin pausas de Garbage Collector ni telemetría externa.
+* 🛡️ **Seguridad e Integridad**: Transacciones atómicas de almacenamiento y protección estricta de inventarios.
+* 🎮 **Integración Total**: Compatible con Slimefun4-Drake, redes de logística NetworksV6, maquinaria pesada y economía global.
+
+---
+
+## 📋 Compatibilidad Técnica
+
+| Parámetro | Requisito |
+|---|---|
+| **Servidor** | Paper / Purpur / Folia **1.21.11** |
+| **Java** | **Java 21** LTS |
+| **Core** | [Slimefun4-Drake](https://github.com/DrakesCraft-Labs/Slimefun4-Drake) |
+| **Lado** | 100% Servidor (Server-side) |
+
+---
+
+## 📥 Instalación
+
+1. Descarga el `.jar` de la última versión desde la pestaña Releases o Modrinth.
+2. Colócalo en la carpeta `plugins/` del servidor junto a `Slimefun4-Drake.jar`.
+3. Inicia o reinicia el servidor.
+
+---
+
+<div align="center">
+
+**Desarrollado y Mantenido por [DrakesCraft Labs](https://github.com/DrakesCraft-Labs)**  
+Licencia **GPL-3.0-only** / **MIT**.
+
+</div>

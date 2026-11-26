@@ -4,6 +4,13 @@
 > **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales: [SlimefunGuguProject](https://github.com/SlimefunGuguProject) (upstream [SlimefunGuguProject/Bump](https://github.com/SlimefunGuguProject/Bump)), [ybw0014](https://github.com/ybw0014), [GuizhanBot](https://github.com/GuizhanBot), [haiman233](https://github.com/haiman233), [renovate-bot](https://github.com/renovate-bot), [zimzaza4](https://github.com/zimzaza4), [balugaq](https://github.com/balugaq), [shixinzia](https://github.com/shixinzia). Licencia original: **GNU General Public License v3.0**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
 <!-- credits:end -->
 
+<!-- legacy-notice:start -->
+> [!WARNING]
+> **Legacy / Superseded Repository (Not Archived)**
+> **EN:** Historical Igdrassil fork of Bump. Active development has moved to [SlimefunNewHorizons/Drakes-Suites](https://github.com/SlimefunNewHorizons/Drakes-Suites) and the active `26.x` ecosystem on [Slimefun6](https://github.com/SlimefunNewHorizons/Slimefun6). This repository is intentionally kept unarchived for historical reference, upstream attribution, and git history.
+>
+> **ES:** Fork histórico de Bump de la etapa Igdrassil. El desarrollo activo continúa en [SlimefunNewHorizons/Drakes-Suites](https://github.com/SlimefunNewHorizons/Drakes-Suites) y el ecosistema activo `26.x` sobre [Slimefun6](https://github.com/SlimefunNewHorizons/Slimefun6). Este repositorio se mantiene intencionalmente sin archivar como referencia histórica, atribución upstream e historial de git.
+<!-- legacy-notice:end -->
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/Bump-Igdrassil/main/banner.svg" alt="Bump-Igdrassil Banner" width="920" />
